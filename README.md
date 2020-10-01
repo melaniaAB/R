@@ -1,2 +1,2 @@
-# R 2017 for audit is FUN!
+# R 2017 is FUN!
 @R@ is Fun too!
