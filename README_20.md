@@ -14,7 +14,7 @@ Approach: a- characterization of nutrient transport families/genes in the pathog
 The identified novel pathogenic nutrient transporters have the potential to be used as tools for the design of disease control strategies for this historic plant pathogen. 
 
 ## Irish Famine
-!["Famine" by Rowan Gillespie](./Irish_famine.jpg) 
+!["Famine" by Rowan Gillespie](./static/Irish_famine.jpg) 
 
 ## R
 gplots, RColorBrewer, gtools
