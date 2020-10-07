@@ -21,7 +21,7 @@ Pathogen control
 
 ## Project B
 
-## Project C 
+## Project  
 
 ## Contact
 mabraham@yahoo.com
