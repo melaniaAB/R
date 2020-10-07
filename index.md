@@ -20,7 +20,7 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 [Pathogen control: README](./ProjectA/README_ProjectA.md) 
 ### The in vivo upregulated nutrient transports of the pathogen may be involved in the virulence of the pathogen.
 #### Image includes  one of the idnetified nutrinet trnasporter families in this study depicting the gene expression of memebers of this family in both in vivo and n vitro conditions.
-![Differential Gene Expresssion](./ProjectA/heatmap.tif)
+![Differential Gene Expresssion](./ProjectA/Heatmap.png)
 
 ## Project B
 
