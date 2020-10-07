@@ -4,7 +4,7 @@ This portfolio includes several projects including data analyses and visualizati
 
 ## Table of contents
 * [General info](#general-info)
-* [Data Science] (#image)
+* [Big Data] (#screenshots)
 * [Project A](#project)
 * [Project B](#project)
 * [Project C](#project)
