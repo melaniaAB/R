@@ -14,7 +14,7 @@ Approach: a- characterization of nutrient transport families/genes in the pathog
 The identified novel pathogenic nutrient transporters have the potential to be used as tools for the design of disease control strategies for this historic plant pathogen. 
 
 ## Irish Famine
-Famine resulted in death of about 1 million Irish people, and emigration of another 1 million from the island to North America and Great Britain.
+Famine resulted in death of about 1 million Irish people, and migration of another 1 million from the island to North America and Great Britain.
 
 !["Famine" by Rowan Gillespie](./Irish_famine.jpg) 
 
