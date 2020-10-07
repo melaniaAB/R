@@ -19,7 +19,7 @@ The identified novel pathogenic nutrient transporters have the potential to be u
 ## R
 gplots, RColorBrewer, gtools
   ## Code Example
-    heatmap.2(yourdata, cexRow=1, cexCol=1, margins=c(6,6),lhei=c(0.2,0.9),lwid=c(3.5,2),density.info="none",trace="none",dendrogram="none",Colv="FALSE",notecex = 0.01,col=colo, offsetRow=-0.5)
+    heatmap.2(yourdata, cexRow=1, cexCol=1, margins=c(6,6),lhei=c(0.2,0.9),lwid=c(3.5,2),density.info="none",trace="none",dendrogram="none",Colv="FALSE",notecex = 0.01,col=COLO, offsetRow=-0.5)
 
 ## Status
 Project is published.
