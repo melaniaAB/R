@@ -13,7 +13,7 @@ This portfolio includes several projects including data analyses and visualizati
 ## General info
 You have collected data and it is the BIG DATA that you have now! Congratulation? But, what is the next step? Or what is your next question? To address your next move you need to  discover hidden paterns, corelations, and come to the point that you can visualize your data depiting the new opportunities for the future step(s) and accomplishments.
 
-## Data Science
+## Big Data
 ![Big Data](./Welcome.jpg)
 
 ## Project A
