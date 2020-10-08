@@ -19,7 +19,7 @@ Famine resulted in death of about 1 million Irish people, and migration of anoth
 
 !["Famine" by Rowan Gillespie](./static/Irish_famine.jpg) 
 
-## Gene Expression
+## Gene Expression Study
 RNA-seq data analysis and visualization
 
 ### Packages
