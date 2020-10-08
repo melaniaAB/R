@@ -1,6 +1,7 @@
-# Nutrient-Transporters of the agent of the Irish Famine.
-> The study objective: identification of factors involved in the host-pathogen interaction establishment. 
-Approach: a- characterization of nutrient transport families/genes in the pathogen, b- differential gene expression analysis of the identified nutrient transporters in the pathogen obtained from in vivo and ex vivo conditions
+# Metabolism and disease control.
+> The study objective: identification of metabolic needs of a pthogen during host invasion.  
+Approach: a- characterization of nutrient transport families/genes in the pathogen, b- identifcation of the gene expression prfile of these transporters and their partner genes in a metabolic pathway.
+
 
 ## Table of contents
 * [General info](#general-info)
