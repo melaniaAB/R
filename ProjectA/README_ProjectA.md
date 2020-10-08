@@ -19,7 +19,7 @@ Famine resulted in death of about 1 million Irish people, and migration of anoth
 
 !["Famine" by Rowan Gillespie](./static/Irish_famine.jpg) 
 
-## Gene Expression Study
+## Gene Expression Study on the agent of the Irish Famine
 RNA-seq data analysis and visualization
 
 ### Packages
@@ -28,7 +28,7 @@ systemPipeR, gplots, RColorBrewer, gtools
 
 #### systemPipeR
 Analysis on the gene expression profile of the identifed nutrient transports in the pathogen
-
+[systemPipeR](https://www.bioconductor.org/packages/release/bioc/html/systemPipeR.html)
 
 #### other R code examples
 
