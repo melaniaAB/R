@@ -20,10 +20,14 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 [Pathogen control: README](./ProjectA/README_ProjectA.md) 
 ##### The in vivo upregulated nutrient transports of the pathogen may be involved in the virulence of the pathogen.
 
-#### Differential gene expression analysis on the pathogen grown in host tissues vs in vitro cultures
+#### Differential gene expression analysis
+Analysis on RNA-seq data obtained from the pathogen grown in host tissues vs in vitro cultures
+
 ![edgeR DEG](./ProjectA/static/2016_RNA_seq_DEGcounts.png)
 
-#### Image includes all the idnetified nutrinet trnasporter families in this study depicting the gene expression of memebers of families in both in vivo and n vitro conditions.
+#### Image includes all the idnetified nutrinet trnasporter families
+The image depicts the gene expression for the memebers of nutrient transporter families from in vivo and n vitro grown conditions.
+
 ![Differential Gene Expresssion](./ProjectA/static/Heatmap.png)
 
 ## Project B
