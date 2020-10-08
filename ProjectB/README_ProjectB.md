@@ -17,7 +17,7 @@ The characterized novel mtRNA trasnport pathway can contribute to the disease co
 ## Mitochondrial disorders
 Defects in mtDNA (e.g., mutation, deletions) can caue several disorders such as neurodegenerative diseases.
 
-![mt-disorders](./static/mitoDisorders.jpg) 
+![mt-disorders](./static/mitoDisorders.jpeg) 
 
 ## Packages and approaches
 SAINTExpress and STRINGdb(IP-MS data), eCLIP-seq/PureCLIP and RCas (characterisation of RNAs/motifs bound by proteins).
