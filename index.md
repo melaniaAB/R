@@ -5,8 +5,8 @@ This portfolio includes several projects including data analyses and visualizati
 ## Table of contents
 * [General info](#general-info)
 * [Big Data](#image)
-* [Project A](#project)
-* [Project B](#project)
+* [Nutrient transporters](#project)
+* [RNA and RNABP](#project)
 * [Project C](#project)
 * [Contact](#contact)
 
@@ -16,10 +16,9 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 ## Big Data
 ![Data](./static/Welcome.jpg)
 
-## Project A
+## Nutrient transporters
 [Pathogen control: README](./ProjectA/README_ProjectA.md) 
 ##### The in vivo upregulated nutrient transports of the pathogen may be involved in the virulence of the pathogen.
-
 
 
 #### Differential gene expression analysis (systemPipeR -  edgeR)
@@ -40,9 +39,30 @@ The three microorganisms depicted in the image have different nutritinals needs 
 ![Orthologs](./ProjectA/static/Rplot_ortho_seperated.png)
 
 
-## Project B
+## RNA and RNABP
+[RNABP: README](./ProjectB/README_ProjectB.md)
+##### Characterized mtRNA transport pathway could contribute to the design of control strategies for mtochondrial disorders. 
 
-## Project  
+
+#### Indetification of the pathway components (IP-MS)
+Identification of Putative components of the mtRNA transport pathway - SAINTexpress
+
+![IP PNPase](./ProjectB/static/PNPase_partners.png)
+
+
+#### Identification of the transported RNAs (eCLIP-seq)
+The image is example for one of the RNA-bound components of the mtRNA transport pathway.
+
+![RNBP](./ProjectB/static/RNAs.png)
+
+
+#### Profile of the trasnported mtRNAs binding site 
+Where are the protein-RNA binding sites?
+
+![RNBP](./ProjectB/static/Coverage_profile.png)
+
+
+## Project C
 
 ## Contact
 mabraham@yahoo.com
