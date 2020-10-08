@@ -28,7 +28,8 @@ systemPipeR, gplots, RColorBrewer, gtools
 
 #### systemPipeR - Analysis on the gene expression profile of the identifed nutrient transports in the pathogen
 
-#### R code examples
+
+### R code examples
 
 ##### Code Example - Heatmap
        heatmap.2(yourdata, cexRow=1, cexCol=1, margins=c(6,6),lhei=c(0.2,0.9),lwid=c(3.5,2),density.info="none",trace="none",dendrogram="none",Colv="FALSE",notecex = 0.01,col=colorRampPalette(brewer.pal(9,&quot;YlOrRd&quot;))(300), offsetRow=-0.5) #color brewe is used
