@@ -23,7 +23,7 @@ Famine resulted in death of about 1 million Irish people, and migration of anoth
 RNA-seq data analysis and visualization
 
 ### Packages
-systemPipeR, gplots, RColorBrewer, gtools
+systemPipeR, gplots, RColorBrewer, gtools, cowplot
 
 
 #### [systemPipeR](https://www.bioconductor.org/packages/release/bioc/html/systemPipeR.html)
@@ -35,7 +35,11 @@ Analysis on the gene expression profile of the identifed nutrient transports in 
        heatmap.2(yourdata, cexRow=1, cexCol=1, margins=c(6,6),lhei=c(0.2,0.9),lwid=c(3.5,2),density.info="none",trace="none",dendrogram="none",Colv="FALSE",notecex = 0.01,col=colorRampPalette(brewer.pal(9,&quot;YlOrRd&quot;))(300), offsetRow=-0.5) #color brewe is used
 
 ##### Code Example - Heatmaps in one page
-        grid.arrange(heatmap1, heatmap2, ncol=2) # example of inserting two plots on one page
+        plot_grid(chart_a, chart_b, labels=c("A", "B"), ncol = 2, nrow = 1) # example of putting two charts together using "cowplot"
+
+##### Code example - nutrient transporters in species with distinct nutrient requirements
+	ggplot(mm, aes(x=c(P..infestans,Py..ultimum,M..orzyae), y='P.inf, P.ult, M.orz')) + geom_bar(stat='identity') + facet_grid(.~variable) + coord_flip() + labs(x='',y='')
+
 
 ## Status
 Project is published.

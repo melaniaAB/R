@@ -22,7 +22,7 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 
 
 
-#### Differential gene expression analysis
+#### Differential gene expression analysis (systemPipeR -  edgeR)
 Pathogen grown in host downregulate/upregulate larger number of nutrient transporter genes (more than 2 fold, FDR 1%) at early stage of host-pathogen interaction time point compared to late stage infection time point. 
 
 
@@ -32,6 +32,13 @@ Pathogen grown in host downregulate/upregulate larger number of nutrient transpo
 The image depicts the gene expression for the memebers of nutrient transporter families from in vivo and n vitro grown conditions.
 
 ![Differential Gene Expresssion](./ProjectA/static/Heatmap.png)
+
+
+#### Difference in the type and number of nutrient transporters in different species
+The three microorganisms depicted in the image have different nutritinals needs hence show differences in the presence and/or abscence of a family of nutrient transporters or the memebers.
+
+![Orthologs](./ProjectA/static/Rplot_ortho_seperated.png)
+
 
 ## Project B
 
