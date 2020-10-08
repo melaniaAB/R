@@ -27,17 +27,13 @@ systemPipeR, gplots, RColorBrewer, gtools
 
 
 #### systemPipeR - Analysis on the gene expression profile of the identifed nutrient transports in the pathogen
-edgeR for RNA-seq differential gene expression analyses
 
-![2016 DEGcounts](./static/2016_RNA_seq_DEGcounts.png)
+#### R code examples
 
-
-##### code example and result
-
-#### Code Example - Heatmap
+##### Code Example - Heatmap
        heatmap.2(yourdata, cexRow=1, cexCol=1, margins=c(6,6),lhei=c(0.2,0.9),lwid=c(3.5,2),density.info="none",trace="none",dendrogram="none",Colv="FALSE",notecex = 0.01,col=colorRampPalette(brewer.pal(9,&quot;YlOrRd&quot;))(300), offsetRow=-0.5) #color brewe is used
 
-#### Code Example - Heatmaps in one page
+##### Code Example - Heatmaps in one page
         grid.arrange(heatmap1, heatmap2, ncol=2) # example of inserting two plots on one page
 
 ## Status
