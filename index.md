@@ -5,9 +5,9 @@ This portfolio includes several projects including data analyses and visualizati
 ## Table of contents
 * [General info](#general-info)
 * [Big Data](#image)
-* [Nutrient transporters](#project)
-* [RNA and RNABP](#project)
-* [Project C](#project)
+* [Project A: Nutrient transporters](#project)
+* [Project B: RNA and RNABP](#project)
+* [Project C: ](#project)
 * [Contact](#contact)
 
 ## General info
@@ -16,7 +16,7 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 ## Big Data
 ![Data](./static/Welcome.jpg)
 
-## Nutrient transporters
+##  Project A: Nutrient transporters
 [Pathogen control: README](./ProjectA/README_ProjectA.md) 
 ##### The in vivo upregulated nutrient transports of the pathogen may be involved in the virulence of the pathogen.
 
@@ -39,7 +39,7 @@ The three microorganisms depicted in the image have different nutritinals needs 
 ![Orthologs](./ProjectA/static/Rplot_ortho_seperated.png)
 
 
-## RNA and RNABP
+## Project B: RNA and RNABP
 [RNABP: README](./ProjectB/README_ProjectB.md)
 ##### Characterized mtRNA transport pathway could contribute to the design of control strategies for mtochondrial disorders. 
 
