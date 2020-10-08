@@ -24,7 +24,7 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 ![edgeR DEG](./ProjectA/static/2016_RNA_seq_DEGcounts.png)
 
 ##### Image includes all the idnetified nutrinet trnasporter families in this study depicting the gene expression of memebers of families in both in vivo and n vitro conditions.
-![Differential Gene Expresssion](./ProjectA/static/Heatmap.png)
+![Differential Gene Expresssion](./ProjectA/static/heatmap_1.png)
 
 ## Project B
 
