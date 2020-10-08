@@ -23,7 +23,8 @@ You have collected data and it is the BIG DATA that you have now! Congratulation
 
 
 #### Differential gene expression analysis
-Analysis on RNA-seq data obtained from the pathogen grown in host tissues vs in vitro cultures
+Pathogen grown in host downregulate/upregulate larger number of nutrient transporter genes (more than 2 fold, FDR 1%) at early stage of host-pathogen interaction time point compared to late stage infection time point. 
+
 
 ![edgeR DEG](./ProjectA/static/2016_RNA_seq_DEGcounts.png)
 
