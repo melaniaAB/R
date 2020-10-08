@@ -26,9 +26,8 @@ RNA-seq data analysis and visualization
 systemPipeR, gplots, RColorBrewer, gtools
 
 
-#### systemPipeR
+#### [systemPipeR](https://www.bioconductor.org/packages/release/bioc/html/systemPipeR.html)
 Analysis on the gene expression profile of the identifed nutrient transports in the pathogen
-[systemPipeR](https://www.bioconductor.org/packages/release/bioc/html/systemPipeR.html)
 
 #### other R code examples
 
