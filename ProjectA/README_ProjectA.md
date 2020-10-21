@@ -45,4 +45,4 @@ Analysis on the gene expression profile of the identifed nutrient transports in 
 Project is published.
 
 ## Inspiration
-Generate beautiful heatmaps fior everyone! 
+Generate beautiful heatmaps! 
