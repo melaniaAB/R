@@ -1,5 +1,5 @@
 # The mtRNA transport pathway.
-> The study objective: characterization of the mtRNA transport pathway.   
+> The study objective: Characterization of the mtRNA transport pathway.   
 Approach: a- IP-MS on one of the putative components of the pathway, b- eCLIP-seq study on RNA-bound components of the pathway.
 
 
