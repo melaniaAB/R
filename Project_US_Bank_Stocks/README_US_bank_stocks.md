@@ -17,6 +17,7 @@ Analyses on the US bank stocks from 2006 - 2020.
 ## US Bank Stocks
 In 2008 and 2009 we see the loss of several banks, interestingly part of the loss was on the inaguration time.
 
+score.org
 ![US-bank_stock](./static/profitloss.jpg) 
 
 ## Example Packages/Libraries
