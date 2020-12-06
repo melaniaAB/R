@@ -26,8 +26,8 @@ numpy, Pandas, matplotlib, seaborn, plotly
 
 #### Code Example - Acquisition of JPM data
 	start = datetime.datetime(2006, 1, 1)
-  end = datetime.datetime(2020, 12, 1)
-  JPM = data.DataReader("JPM", 'yahoo', start, end)
+  	end = datetime.datetime(2020, 12, 1)
+ 	JPM = data.DataReader("JPM", 'yahoo', start, end)
 	
  
 ## Status
